@@ -2,7 +2,9 @@
 
 Contained within this repo is the smart contract used to create the Nitrogen ($NITRO) token. 
 This token smart contract has some built-in features that are listed below. [You can verify these features by viewing the source code of the token smart contract](https://github.com/pineapple-cash/nitrogen/blob/main/nitrogen.sol).
-- Max Supply of 100,000,000,000 Nitrogen ($NITRO)
+- Total Supply 100,000,000,000 Nitrogen ($NITRO)
+- Circulating Supply 50,000,000,000 ($NITRO)
+- 9 decimal places
 - 50% Burned at launch. [Verify here](#)
 - 50% Added to liquidty on PancakeSwap & burned. [Verify here](#)
 - 3% Redistrubted to all token holders (based on trasnfers, buys, sells, etc)
