@@ -1,7 +1,7 @@
 # Nitrogen Token Smart Contract
 
 Contained within this repo is the smart contract used to create the Nitrogen ($NITRO) token. 
-This token smart contract has some built-in features that are listed below. You can verify these features by viewing the source code of the token smart contract.
+This token smart contract has some built-in features that are listed below. [You can verify these features by viewing the source code of the token smart contract](https://github.com/pineapple-cash/nitrogen/blob/main/nitrogen.sol).
 - 3% Redistrubted to all token holders (based on trasnfers, buys, sells, etc)
 - 3% Added to all avaliable liquidty pairs (based on transfers, buys, sells, etc)
 
