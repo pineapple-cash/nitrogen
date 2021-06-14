@@ -15,6 +15,7 @@ This token smart contract has some built-in features that are listed below. [You
 0x
 
 ##### Make Sure you double check the token contract address before buying or selling Nitrogen ($NITRO) beware of scammers and fake tokens when trading. 
+Need help? Join [Pineapple Cash on Telegram](https://t.me/pnapltokengroup)
 
 
 ## How to Buy Nitrogen ($NITRO)
