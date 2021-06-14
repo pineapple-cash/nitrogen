@@ -10,7 +10,7 @@ Contained within this repo is the smart contract used to create the Nitrogen (NI
 
 
 ## How to Buy Nitrogen ($NITRO)
-Currently Nitrogen is trading on the following exchanges. This page is currently was last updated June 14th, 2021.
+Currently Nitrogen is trading on the following exchanges. 
 * [PancakeSwap](https://pancakeswap.finance/)
 * More coming soon!
 
