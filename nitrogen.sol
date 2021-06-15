@@ -1,14 +1,16 @@
 
 /**
   
-   Inspired by safemoon, expanded upon by reality.
+  
+   Nitrogen ($NITRO) is a green alternative to cryptocurrency mining. 
+   Used to farm the Pineapple Cash ($PNAPL) token.
    
    #Nitrogen features: (visit https://pineapple.cash/ to learn more.)
-   3% fee auto add to the liquidity pool and locked forever when selling
-   3% fee auto re-distributed to all holders
+   3% is added to the all liquidity pairs on every transaction
+   3% is redistributed to all holders on every transaction
    
-   50% Supply is burned at start
-   50% Supply is locked as liquidity on Pancake Swap
+   50% of the supply is burned at the start
+   50% of the supply is locked as liquidity on PancakeSwap
    
 
  */
@@ -707,7 +709,7 @@ contract Nitrogen is Context, IERC20, Ownable {
     address[] private _excluded;
    
     uint256 private constant MAX = ~uint256(0);
-    uint256 private _tTotal = 100000 * 10**6 * 10**9;
+    uint256 private _tTotal = 100000000 * 10**6 * 10**9;
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
@@ -727,8 +729,8 @@ contract Nitrogen is Context, IERC20, Ownable {
     bool inSwapAndLiquify;
     bool public swapAndLiquifyEnabled = true;
     
-    uint256 public _maxTxAmount = 50000 * 10**6 * 10**9;
-    uint256 private numTokensSellToAddToLiquidity = 50000 * 10**6 * 10**9;
+    uint256 public _maxTxAmount = 50000000 * 10**6 * 10**9;
+    uint256 private numTokensSellToAddToLiquidity = 50000000 * 10**6 * 10**9;
     
     event MinTokensBeforeSwapUpdated(uint256 minTokensBeforeSwap);
     event SwapAndLiquifyEnabledUpdated(bool enabled);
