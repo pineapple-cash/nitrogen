@@ -12,7 +12,7 @@ This token smart contract has some built-in features that are listed below. [You
 
 
 ## Official Smart Contract Address
-0x
+0xcD975fed7B03f2a4A1f253007447A2DD917a1382
 
 ##### Make Sure you double check the token contract address before buying or selling Nitrogen ($NITRO) beware of scammers and fake tokens when trading. 
 __Need help?__ Join [Pineapple Cash on Telegram](https://t.me/pnapltokengroup)
