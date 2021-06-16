@@ -6,7 +6,7 @@ This token smart contract has some built-in features that are listed below. [You
 - Circulating Supply 50,000,000,000 ($NITRO)
 - 9 decimal places
 - 50% Burned at launch. [Verify here](https://bscscan.com/tx/0x98a370c9cff894c08c0ab7ae8ff8479c22aeb7673e9a99a27082278ff05a0aad)
-- 50% Added to liquidty on PancakeSwap & burned. [Verify here](#)
+- 50% Added to liquidty on PancakeSwap & burned. [Verify here](https://bscscan.com/tx/0x351698ad39feb4e17f0b5212d4478e7c22c75284ee4df18e62891ba77a8be080)
 - 3% Redistrubted to all token holders (based on trasnfers, buys, sells, etc)
 - 3% Added to all avaliable liquidty pairs (based on transfers, buys, sells, etc)
 
@@ -20,11 +20,11 @@ __Need help?__ Join [Pineapple Cash on Telegram](https://t.me/pnapltokengroup)
 
 ## How to Buy Nitrogen ($NITRO)
 Currently Nitrogen is trading on the following exchanges. 
-* [PancakeSwap](https://pancakeswap.finance/)
+* [PancakeSwap](https://pancakeswap.info/token/0xcd975fed7b03f2a4a1f253007447a2dd917a1382)
 * More coming soon!
 
 
 ## How to view Trading Stats for Nitrogen ($NITRO)
 You can view trading stats for Nitrogen on Coin Market Cap and Coin Gecko (soon). For now you can use the following decentalized tools to view trading activity.
+* [Poocoin](https://poocoin.app/tokens/0xcd975fed7b03f2a4a1f253007447a2dd917a1382)
 * [Dextools](#)
-* [Poocoin](#)
