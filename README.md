@@ -5,7 +5,7 @@ This token smart contract has some built-in features that are listed below. [You
 - Total Supply 100,000,000,000 Nitrogen ($NITRO)
 - Circulating Supply 50,000,000,000 ($NITRO)
 - 9 decimal places
-- 50% Burned at launch. [Verify here](#)
+- 50% Burned at launch. [Verify here](https://bscscan.com/tx/0x98a370c9cff894c08c0ab7ae8ff8479c22aeb7673e9a99a27082278ff05a0aad)
 - 50% Added to liquidty on PancakeSwap & burned. [Verify here](#)
 - 3% Redistrubted to all token holders (based on trasnfers, buys, sells, etc)
 - 3% Added to all avaliable liquidty pairs (based on transfers, buys, sells, etc)
