@@ -27,4 +27,4 @@ Currently Nitrogen is trading on the following exchanges.
 ## How to view Trading Stats for Nitrogen ($NITRO)
 You can view trading stats for Nitrogen on Coin Market Cap and Coin Gecko (soon). For now you can use the following decentalized tools to view trading activity.
 * [Poocoin](https://poocoin.app/tokens/0xcd975fed7b03f2a4a1f253007447a2dd917a1382)
-* [Dextools](#)
+* [Dextools](https://www.dextools.io/app/pancakeswap/pair-explorer/0x6f8c7a74f4baa4bee297a9bf7fc472e24b707462)
